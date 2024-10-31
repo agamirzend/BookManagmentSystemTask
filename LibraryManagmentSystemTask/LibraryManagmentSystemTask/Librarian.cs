@@ -1,18 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using LibraryManagementSystem.Enums;
 
-namespace LibraryManagmentSystemTask
+namespace LibraryManagementSystem.Models;
+
+public class Librarian : Person
 {
-    internal class Librarian : Person
+    public DateTime HireDate { get; set; }
+    public LibrarianStatusEnum LibrarianStatus { get; set; }
+    public Librarian(string name) : base(name)
     {
-        public DateTime HireDate { get; set; }
-        public Librarian(string name, DateTime hireDate) : base(name)
-        {
-            HireDate = hireDate;
-            
-        }
+        LibrarianStatus = LibrarianStatusEnum.Active;
     }
+
 }

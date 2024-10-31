@@ -1,20 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using LibraryManagementSystem.Exceptions;
+using LibraryManagementSystem.Models;
 
-namespace LibraryManagmentSystemTask
+
+namespace LibraryManagementSystem.Helpers;
+
+public static class LibraryHelper
 {
-    internal static class LibraryHelper
+    public static int CalculateAge(this LibraryItem libraryItem)
     {
-        public static int CalculateAge(this LibraryItem)
+        if (libraryItem.PublicationYear == null)
         {
-
+            throw new LibraryItemException("Publication Year is null");
         }
-        public static string ToTitleCase(this LibraryItem item)
-        {
+        int age = DateTime.Now.Year - libraryItem.PublicationYear.Value;
+        return age;
+    }
 
-        }
+    public static string ToTitleCase(this LibraryItem libraryItem)
+    {
+        string str = libraryItem.Title[0].ToString().ToUpper() + libraryItem.Title.Substring(1).ToLower();
+        return str;
     }
 }

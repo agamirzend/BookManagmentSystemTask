@@ -3,8 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\librarymembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\librarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\ilibrarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\ilibrarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\libraryitemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\libraryitemexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarianstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\librarianstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\bookgenreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\bookgenreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\librarylocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|c:\\users\\acer\\onedrive\\desktop\\ab205\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\librarymanagmentsystemtask\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20894035-2BE7-48A1-A111-9BB825DD5378}|LibraryManagmentSystemTask\\LibraryManagmentSystemTask.csproj|solutionrelative:librarymanagmentsystemtask\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +74,216 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 13,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LIbraryItemException.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LIbraryItemException.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\LIbraryItemException.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LIbraryItemException.cs",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\LIbraryItemException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:16:47.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LibrarianStatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibrarianStatusEnum.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\LibrarianStatusEnum.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibrarianStatusEnum.cs",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\LibrarianStatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:15:11.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookGenreEnum.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\BookGenreEnum.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\BookGenreEnum.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\BookGenreEnum.cs",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\BookGenreEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:14:28.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibrarianService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibrarianService.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\LibrarianService.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibrarianService.cs*",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\LibrarianService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:59:39.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILibrarianService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\ILibrarianService.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\ILibrarianService.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\ILibrarianService.cs",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\ILibrarianService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:59:13.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryCatalog.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\LibraryCatalog.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryCatalog.cs",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\LibraryCatalog.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA/wCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:23:40.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryHelper.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\LibraryHelper.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryHelper.cs",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\LibraryHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:19:48.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LibraryLocation.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryLocation.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\LibraryLocation.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryLocation.cs",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\LibraryLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:29:38.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\DVD.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\DVD.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\DVD.cs*",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\DVD.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:17:25.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\Magazine.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\Magazine.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\Magazine.cs",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:17:18.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\Book.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\Book.cs*",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\Book.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:17:12.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\LibraryItem.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\LibraryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:09:48.895Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LibraryMembership.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryMembership.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\LibraryMembership.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryMembership.cs*",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\LibraryMembership.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:58:17.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\Librarian.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\Librarian.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\Librarian.cs",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:51:40.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\Person.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\Person.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\Person.cs",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:48:47.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\Program.cs",
               "RelativeDocumentMoniker": "LibraryManagmentSystemTask\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\Program.cs",
-              "RelativeToolTip": "LibraryManagmentSystemTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Desktop\\ab205\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\LibraryManagmentSystemTask\\Program.cs*",
+              "RelativeToolTip": "LibraryManagmentSystemTask\\Program.cs*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwFcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T17:43:34.43Z",
               "EditorCaption": ""

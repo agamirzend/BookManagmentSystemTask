@@ -1,21 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
-namespace LibraryManagmentSystemTask
+namespace LibraryManagementSystem.Models;
+
+public class DVD : LibraryItem
 {
-    internal class DVD : LibraryItem
+    public DVD(string title, int? publicationYear) : base(title, publicationYear)
     {
-        public DVD(string title, DateTime publicationYear) : base(title, publicationYear)
-        {
+    }
 
-        }
-
-        public override void DisplayInfo()
-        {
-            Console.WriteLine($"Dvd Title: {Title} Year that made:  {PublicationYear} ");
-        }
+    public override void DisplayInfo()
+    {
+        Console.WriteLine("Hello from DVD");
     }
 }

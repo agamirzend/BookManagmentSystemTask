@@ -1,19 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
-namespace LibraryManagmentSystemTask
+namespace LibraryManagementSystem.Models;
+
+public sealed class LibraryMember : Person
 {
-    internal sealed class LibraryMember : Person
-
+    public DateTime MembershipDate { get; set; }
+    public LibraryMember(string name) : base(name)
     {
-        public DateTime MemberShipDate {  get; set; }
-        public LibraryMember(string name, DateTime memberShipDate) : base(name)
-        {
-            MemberShipDate = memberShipDate;
-
-        }
     }
+
 }

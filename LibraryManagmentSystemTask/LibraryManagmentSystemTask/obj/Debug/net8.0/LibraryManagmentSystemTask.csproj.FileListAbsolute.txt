@@ -1,0 +1,15 @@
+C:\Users\ACER\OneDrive\Desktop\ab205\LibraryManagmentSystemTask\LibraryManagmentSystemTask\LibraryManagmentSystemTask\obj\Debug\net8.0\LibraryManagmentSystemTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\ab205\LibraryManagmentSystemTask\LibraryManagmentSystemTask\LibraryManagmentSystemTask\obj\Debug\net8.0\LibraryManagmentSystemTask.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\ab205\LibraryManagmentSystemTask\LibraryManagmentSystemTask\LibraryManagmentSystemTask\obj\Debug\net8.0\LibraryManagmentSystemTask.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\ab205\LibraryManagmentSystemTask\LibraryManagmentSystemTask\LibraryManagmentSystemTask\obj\Debug\net8.0\LibraryManagmentSystemTask.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\ab205\LibraryManagmentSystemTask\LibraryManagmentSystemTask\LibraryManagmentSystemTask\obj\Debug\net8.0\LibraryManagmentSystemTask.sourcelink.json
+C:\Users\ACER\OneDrive\Desktop\ab205\LibraryManagmentSystemTask\LibraryManagmentSystemTask\LibraryManagmentSystemTask\bin\Debug\net8.0\LibraryManagmentSystemTask.exe
+C:\Users\ACER\OneDrive\Desktop\ab205\LibraryManagmentSystemTask\LibraryManagmentSystemTask\LibraryManagmentSystemTask\bin\Debug\net8.0\LibraryManagmentSystemTask.deps.json
+C:\Users\ACER\OneDrive\Desktop\ab205\LibraryManagmentSystemTask\LibraryManagmentSystemTask\LibraryManagmentSystemTask\bin\Debug\net8.0\LibraryManagmentSystemTask.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\ab205\LibraryManagmentSystemTask\LibraryManagmentSystemTask\LibraryManagmentSystemTask\bin\Debug\net8.0\LibraryManagmentSystemTask.dll
+C:\Users\ACER\OneDrive\Desktop\ab205\LibraryManagmentSystemTask\LibraryManagmentSystemTask\LibraryManagmentSystemTask\bin\Debug\net8.0\LibraryManagmentSystemTask.pdb
+C:\Users\ACER\OneDrive\Desktop\ab205\LibraryManagmentSystemTask\LibraryManagmentSystemTask\LibraryManagmentSystemTask\obj\Debug\net8.0\LibraryManagmentSystemTask.dll
+C:\Users\ACER\OneDrive\Desktop\ab205\LibraryManagmentSystemTask\LibraryManagmentSystemTask\LibraryManagmentSystemTask\obj\Debug\net8.0\refint\LibraryManagmentSystemTask.dll
+C:\Users\ACER\OneDrive\Desktop\ab205\LibraryManagmentSystemTask\LibraryManagmentSystemTask\LibraryManagmentSystemTask\obj\Debug\net8.0\LibraryManagmentSystemTask.pdb
+C:\Users\ACER\OneDrive\Desktop\ab205\LibraryManagmentSystemTask\LibraryManagmentSystemTask\LibraryManagmentSystemTask\obj\Debug\net8.0\LibraryManagmentSystemTask.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\ab205\LibraryManagmentSystemTask\LibraryManagmentSystemTask\LibraryManagmentSystemTask\obj\Debug\net8.0\ref\LibraryManagmentSystemTask.dll

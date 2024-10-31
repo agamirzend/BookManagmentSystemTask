@@ -1,28 +1,39 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using LibraryManagementSystem.Exceptions;
 
-namespace LibraryManagmentSystemTask
+namespace LibraryManagementSystem.Models;
+
+public class LibraryCatalog
 {
-    internal class LibraryCatalog
+    public List<Book> Books { get; set; }
+    public Book this[int id]
     {
-
-        public LibraryItem this[int id]
+        get
         {
-            get
+            int index = -1;
+            for (int i = 0; i < Books.Count; i++)
             {
-                if (!catalog.ContainsKey(id))
-                    throw new CustomBookError($"Book with ID {id} is not found in the catalog.");
-
-                return catalog[id];
+                if (id == Books[i].Id)
+                {
+                    index = i;
+                    break;
+                }
             }
+
+            if (index != -1)
+            {
+                return Books[index];
+            }
+            else
+            {
+                throw new LibraryItemException($"Kataloqda gonderilen id-e({id}) uygun deyer tapilmadi");
+            }
+
         }
 
-        public void AddItem(int id, LibraryItem item)
-        {
-            catalog[id] = item;
-        }
+    }
+
+    public LibraryCatalog(List<Book> books)
+    {
+        Books = books;
     }
 }
